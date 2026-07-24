@@ -1,4 +1,4 @@
-# Fraud Incident Analyst
+# Retail Fraud Analyst
 
   Claude skill that analyzes incident reports or other investigative artifacts, maps to schemes, tactics,
   channels and techniques catalogued in the NRF Retail Fraud Taxonomy, then provides tactical guidance 
