@@ -1,7 +1,7 @@
 # Retail Fraud Analyst
 
   Claude skill that analyzes incident reports or other investigative artifacts, maps to schemes, tactics,
-  channels and techniques catalogued in the NRF Retail Fraud Taxonomy, then provides tactical guidance 
+  channels and techniques cataloged in the NRF Retail Fraud Taxonomy, then provides tactical guidance 
   on how to strengthen fraud detection and prevention.
 
   This is meant as a starting point for retail fraud analysts to apply the Retail Fraud Taxonomy in their work.
