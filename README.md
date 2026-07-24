@@ -9,7 +9,10 @@
   corpus within the models and the reference detections and mitigaions in the Taxonomy.  AI is non-deterministic
   and there no implied warranty of any kind.
 
-  Adapted from the **NRF Retail Fraud Taxonomy 2.0** released on July 14, 2024.
+  Adapted from the **NRF Retail Fraud Taxonomy 2.0** released on July 14, 2024.  Current coverage includes:
+  1. Gift Card Fraud
+  2. Account Takeover
+  3. Return Fraud
 
 ## References
 https://nrf.com/research/retail-fraud-taxonomy
