@@ -9,8 +9,9 @@
   corpus within the models and the reference detections and mitigaions in the Taxonomy.  AI is non-deterministic
   and there no implied warranty of any kind.
 
-  Based on the **NRF Retail Fraud Taxonomy 2.0** released on July 14, 2024.
+  Adapted from the **NRF Retail Fraud Taxonomy 2.0** released on July 14, 2024.
 
 ## References
 https://nrf.com/research/retail-fraud-taxonomy
+
 https://target.github.io/retail-fraud-taxonomy-viewer
